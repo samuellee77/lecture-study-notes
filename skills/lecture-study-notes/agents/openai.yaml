@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lecture Study Notes"
+  short_description: "Create illustrated notes with interactive HTML companions"
+  default_prompt: "Use $lecture-study-notes to turn these lectures into separate, comprehensive Markdown notes and self-contained HTML companions with clear explanations, worked examples, and focused interactive demonstrations."
